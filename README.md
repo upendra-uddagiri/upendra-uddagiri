@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Upendra Uddagiri&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Upendra&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=667eea&center=true&vCenter=true&random=false&width=700&height=100&lines=Backend+Engineer+%F0%9F%92%BB;Building+LLM+Infrastructure+%F0%9F%9A%80;Distributed+Systems+Explorer+%F0%9F%8C%90;FastAPI+Enthusiast+%E2%9A%A1;System+Design+Architect+%F0%9F%8C%90;Open+Source+Builder+%F0%9F%94%A5" alt="Typing SVG" />
@@ -13,7 +13,7 @@
   <a href="https://linkedin.com/in/upendra-uddagiri">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
   </a>
-  <a href="https://github.com/-uddagiri">
+  <a href="https://github.com/upendra-uddagiri">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/>
   </a>
   <a href="https://twitter.com/upendra_codes">
