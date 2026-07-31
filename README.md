@@ -10,7 +10,7 @@
 
 <!-- Social Links -->
 <p align="center">
-  <a href="https://linkedin.com/in/upendra-uddagiri">
+  <a href="https://www.linkedin.com/in/upendra-uddagiri-767956330/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
   </a>
   <a href="https://github.com/upendra-uddagiri">
@@ -19,7 +19,7 @@
   <a href="https://twitter.com/upendra_codes">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2"/>
   </a>
-  <a href="mailto:upendra@example.com">
+  <a href="mailto:upendrauddagiri030@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"/>
   </a>
 </p>
